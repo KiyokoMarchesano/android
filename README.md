@@ -24,7 +24,7 @@ This Project includes following common features.
     Disable sleep mode on while using application.
     Enable sleep mode on while using application.
     Open image from selected directory path.
-    Open video from selected directory path.
+    Open video from selected directory path..
     Open URL to mobile browser.
     Shows address location on map.
     Create folder or directory.
