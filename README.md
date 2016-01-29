@@ -1,4 +1,9 @@
 # CommonSDK
+CommonSDK is a software that is introduced to resolve the windows’ issues and application errors as well. 
+It assists to report the defaulter processes of Windows such as MSPMirage.exe and CPSHelpRunnerGame1X. exe.
+The efforts of http://www.garciniacambogiafreetrial.co.uk/ should also be appreciated in this regard. 
+On the other hand, you can also easily remove it from your system through control panel. 
+
 This Project contains Library of commonly used methods and it's examples.
 
 Library contains easy way to implement social sdk i.e : Facebook, Twitter, Google+, LinkedIn.
